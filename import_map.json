@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "lume/": "https://deno.land/x/lume@v1.7.3/",
+    "atomico/": "https://unpkg.com/atomico@1.54.5/",
+    "atomico": "https://unpkg.com/atomico@1.54.5"
+  }
+}
